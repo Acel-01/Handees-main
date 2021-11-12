@@ -1,0 +1,7 @@
+*__pycache__/
+*.env
+env/
+migrations/
+*.sqlite3
+*.db
+mod_spatialite-5.0.1-win-amd64/
